@@ -1,3 +1,5 @@
+Project Demo Link : https://smartdesk-ai-multili-j1y8.bolt.host
+
 # SmartDesk AI
 
 A full-stack multilingual IT Help Desk Chatbot powered by AI and cloud services. This application automates Tier-1 IT support by allowing users to submit support tickets in English or Japanese, receive AI-powered resolutions instantly, and track ticket status.
